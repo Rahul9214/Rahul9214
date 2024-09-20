@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Rahul9214
 
-Welcome to my GitHub profile! I'm a frontend developer with a passion for creating intuitive and dynamic web applications.
+Welcome to my GitHub profile! I'm a Frontend Developer with a passion for creating intuitive and dynamic web applications.
 
 ## 👀 I’m interested in:
 - Frontend development using React and Next.js
