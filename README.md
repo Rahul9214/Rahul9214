@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RahulRanjan
+# 👋 Hi, I’m @Rahul Ranjan
 
 Welcome to my GitHub profile! I'm a Frontend Developer with a passion for creating intuitive and dynamic web applications.
 
