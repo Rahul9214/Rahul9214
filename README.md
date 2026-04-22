@@ -178,10 +178,11 @@ I'm a **Full Stack Developer with a strong Frontend core**, currently working as
 ---
 
 <!-- =================== STATS =================== -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul9214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul9214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Coding%20Activity" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul9214&theme=tokyonight&hide_border=true" />
 </p>
 
