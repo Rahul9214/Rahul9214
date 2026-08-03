@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  <em>3.8+ years shipping production-grade web applications. I build scalable, AI-powered products end-to-end — and I'm currently going deep on AI/ML, Agentic AI, System Design, and Cloud.</em>
+  <em>4 years shipping production-grade web applications. I build scalable, AI-powered products end-to-end — and I'm currently going deep on AI/ML, Agentic AI, System Design, and Cloud.</em>
 </p>
 
 <p align="center">
